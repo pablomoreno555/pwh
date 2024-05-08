@@ -1,0 +1,8 @@
+- The robot can only hold one object at a time, so if it is already holding an object, it must first find a receptacle (e.g. table, counter), go to it, and put the object down before it can pick up a new object.
+- There are two alternative ways to turn on/off the TV: a) By toggling the remote control. The robot must first go to the remote control, pick it up, find the TV, and then toggle the remote control, without having to go to the TV. b) By toggling the TV. The robot must first go to the TV, and then toggle the TV.
+- To light up a room, the robot can either use lamps or the light switch.
+- To make a coffee, the robot must put a mug on the coffee machine, then toggle it, wait 20 seconds, and pick up the mug.
+- To slice an object, the robot must first pick up a knife and then go to the object to slice. Immediately after slicing the object, the robot must put the knife down and pick up the sliced object before doing anything else.
+- To toast bread, the robot must first pick up the bread, then go to the toaster, and then put it in the toaster.
+- To wash an object, the robot must put it in the sink, find the faucet, toggle it, wait 30 seconds, then toggle the faucet again, and then pick up the object.
+- To microwave an object, the robot must open the microwave, place the object inside, close it, toggle it, wait 60 seconds, toggle the microwave again, open it, pick up the object, and close the microwave.
