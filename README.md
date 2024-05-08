@@ -22,7 +22,7 @@ The code relies on the OpenAI API. Create an API Key at https://platform.openai.
 Then create an environment variable named 'OPENAI_API_KEY' and assign it your OpenAI Key.
 
 ## Running Script
-Run the following command to execute the program. Replace 'FloorPlanX' with the AI2-THOR floor plan ID you want to use (e.g. 'FloorPlan1', 'FloorPlan202', etc.).
+Run the following command to execute the program, replacing 'FloorPlanX' with the AI2-THOR floor plan ID you want to use (e.g. 'FloorPlan1', 'FloorPlan202', etc.).
 
 Refer to https://ai2thor.allenai.org/demo for the layout of the various AI2-THOR floor plans.
 ```
