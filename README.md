@@ -49,4 +49,4 @@ If the robot encounters an issue while executing the initial plan, the simulatio
 
 **B2) The system asks the user for further guidance.** If the limited set of skills that this particular robot can perform do not allow it to accomplish the given instruction after the challenge faced, the system will report the specific problem that prevented the robot from achieving the instruction. A new window will pop up and, upon closing it, the system will ask the user for further guidance. At this point, the user may either guide the robot to accomplish the previous instruction or prompt it to perform a different task.
 
-The program will continuously prompt the user for new instructions. To finish its execution, type 'No', instead of entering a new instruction, and press enter.
+The program will continuously prompt the user for new instructions. To finish its execution, type 'q', instead of entering a new instruction, and press enter.
