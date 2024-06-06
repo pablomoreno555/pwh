@@ -8,7 +8,7 @@ Pablo Moreno Moreno - IMAI Laboratory - Keio University.
 
 Create a conda environment (or virtualenv) with Python 3.10:
 ```
-conda create -n task-planning-llm python==3.10
+conda create -n adaptive-task-planning python==3.10
 ```
 
 Install dependencies:
