@@ -39,7 +39,7 @@ At this point, the situation may lead to two different scenarios:
 
 ### A) First plan successfully executed by the robot.
 
-If the robot is able to successfully execute all the steps of the plan, a new window will pop up after completing the last step, pausing the simulation. Upon closing this window, the system will prompt you to enter a new task.
+If the robot is able to successfully execute all the steps of the plan, after completing the last step the system will prompt you to enter a new task.
 
 ### B) First plan failed to be properly executed.
 
