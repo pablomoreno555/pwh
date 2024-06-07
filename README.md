@@ -13,7 +13,7 @@ conda create -n adaptive-task-planning python==3.10
 
 Install dependencies:
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt -v
 ```
 
 ## OpenAI API Key
