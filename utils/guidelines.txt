@@ -1,0 +1,5 @@
+- The robot can only hold one object at a time, so if it is already holding an object, it must first find a proper receptacle (e.g. table, counter, etc.), go to it, and put the object down before it can pick up a new object.
+- To wash an object, the robot must bring it to the sink, put it down, toggle the faucet, wait 30 seconds, and toggle the faucet again.
+- To make a coffee, the robot must put a mug on the coffee machine, toggle it, and wait 20 seconds.
+- To turn on/off the TV using the remote control, the robot must pick it up, find the TV, toggle the remote control without having to go to the TV, and put it down again on an appropriate receptacle. It can also turn on/off the TV by direclty toggling the TV.
+- To toast bread, the robot must first bring a slice of bread to the toaster, then toggle the toaster, and wait 30 seconds.
