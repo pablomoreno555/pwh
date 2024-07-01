@@ -1,4 +1,4 @@
-# **Adaptive Task Planning in Home Assistant Robots: Integrating Language and Vision Models for Scene Understanding**
+# **Leveraging Large Multimodal Models for Adaptive Task Planning and Scene Understanding in Home Assistant Robots**
 
 Pablo Moreno Moreno - IMAI Laboratory - Keio University.
 
@@ -8,7 +8,7 @@ Pablo Moreno Moreno - IMAI Laboratory - Keio University.
 
 Create a conda environment (or virtualenv) with Python 3.10:
 ```
-conda create -n adaptive-task-planning python==3.10
+conda create -n pwh python==3.10
 ```
 
 Install dependencies:
