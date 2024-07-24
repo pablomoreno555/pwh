@@ -4,7 +4,8 @@ Pablo Moreno Moreno - IMAI Laboratory - Keio University.
 
 **Abstract:** Recent works have shown how the reasoning capabilities of Large Language Models (LLMs) can be applied to robot task planning. These models encode a wealth of semantic knowledge about the world that could be very useful for robots aiming to act upon high-level, temporally extended instructions expressed in natural language. However, the lack of real-world experience of LLMs makes it difficult to leverage them for decision making within a concrete robot. Specially, in dynamic household environments, where the scene may change during execution and the robot might need to replan its future actions. This research aims to propose a framework that can handle unexpected situations that the robot may encounter while executing the initial plan. To achieve this, the proposal lies in autonomously understanding the scene by incorporating a Vision Question Answering (VQA) module to determine why a certain step failed to be properly executed and how to recover from that situation.
 
-![Video Demo](https://github.com/pablomoreno555/pwh/blob/main/demo.mp4)
+https://github.com/user-attachments/assets/e5c5db6a-0a4b-4121-9188-c3dae6a805f1
+
 
 
 
