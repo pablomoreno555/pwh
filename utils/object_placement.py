@@ -15,7 +15,7 @@ def place_objects(controller):
     # controller.step(action='TeleportObject', objectId='Apple|-01.75|+01.37|-01.16', x=-2.2, y=1.32, z=-3.4, rotation=dict(x=0, y=0, z=0), forceAction=True)
     # controller.step(action='TeleportObject', objectId='Tomato|+00.92|+01.91|+01.61', x=-1.467, y=1.35, z=0.244, rotation=dict(x=0, y=0, z=0), forceAction=True)
 
-    # # Put the lettuce high on a shelf and the tomato on the countertop
+    # # Put the lettuce high on a shelf and the tomato on the countertop 
     # controller.step(action='TeleportObject', objectId='Lettuce|-01.89|+01.40|-01.07', x=-1.9, y=2.5, z=-1.905, rotation=dict(x=0, y=0, z=0), forceAction=True)
     # controller.step(action='TeleportObject', objectId='Tomato|+00.92|+01.91|+01.61', x=-1.467, y=1.35, z=0.244, rotation=dict(x=0, y=0, z=0), forceAction=True)
 
