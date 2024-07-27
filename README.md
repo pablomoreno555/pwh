@@ -49,3 +49,5 @@ https://github.com/user-attachments/assets/4a8935ee-a37d-4cfd-8543-d4577bd0aa77
 **B2) The system asks the user for further guidance.** If the limited set of skills that this particular robot can perform does not allow it to accomplish the given instruction after the challenge faced, the system will report the specific problem that prevented the robot from achieving the instruction. A new window will pop up and, upon closing it, the system will ask the user for further guidance. At this point, the user may either guide the robot to accomplish the previous instruction or prompt it to perform a different task.
 
 The program will continuously prompt the user for new instructions. To finish its execution, type 'q', instead of entering a new instruction, and press enter.
+
+https://github.com/user-attachments/assets/4a8935ee-a37d-4cfd-8543-d4577bd0aa77
